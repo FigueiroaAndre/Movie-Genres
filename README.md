@@ -9,3 +9,6 @@ To make the project simple and focus in the modules listed in *Getting Started*,
 
 ## Tests
 In order to make simple validations, and see if the application has worked as expected, i've used the [Insomnia](https://insomnia.rest/) to make the HTTP requests. The file **HTTPRequests.json** has all the requests that i've created, user just have to import it.
+
+## Running
+    node src/app.js
